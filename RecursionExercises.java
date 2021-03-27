@@ -1,5 +1,4 @@
 /**
- * Sabiha Khan
  * Using recursion - to find sum of the squares of all the digits up to an integer inputted.
  * Using recursion - to find the reverse of a string starting from a specified index.
  */
